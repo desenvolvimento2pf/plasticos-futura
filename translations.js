@@ -185,6 +185,12 @@ var linguJSON = {
 			"target_en": "About Us | Contacts",
 			"target_es": "Sobre nosotros | Contactos",
 			"target_fr": "À propos de nous | Contacts"
-		  }		  
+		},
+		{
+		"source": "Análise das suas necessidades e ideias. Análise da viabilidade económica com as necessidades para produção industrial.",
+		"target_en": "Analysis of your needs and ideas. Analysis of the economic feasibility with the requirements for industrial production.",
+		"target_es": "Análisis de sus necesidades e ideas. Análisis de la viabilidad económica con los requisitos para la producción industrial.",
+		"target_fr": "Analyse de vos besoins et idées. Analyse de la faisabilité économique avec les exigences de production industrielle."
+		}	  
 	]
 };
