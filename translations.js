@@ -179,6 +179,12 @@ var linguJSON = {
 			"target_en": "First line of blow molding machines with PET technology.",
 			"target_es": "Primera línea de máquinas de soplado con tecnología PET.",
 			"target_fr": "Première ligne de machines de soufflage avec technologie PET."
-		}
+		},
+		{
+			"source": "Sobre nós | Contactos",
+			"target_en": "About Us | Contacts",
+			"target_es": "Sobre nosotros | Contactos",
+			"target_fr": "À propos de nous | Contacts"
+		  }		  
 	]
 };
