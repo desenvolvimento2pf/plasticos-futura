@@ -191,6 +191,15 @@ var linguJSON = {
 			"target_en": "Analysis of your needs and ideas. Analysis of the economic feasibility with the requirements for industrial production.",
 			"target_es": "Análisis de sus necesidades e ideas. Análisis de la viabilidad económica con los requisitos para la producción industrial.",
 			"target_fr": "Analyse de vos besoins et idées. Analyse de la faisabilité économique avec les exigences de production industrielle."
-		}	  
-	]
+		}
+			  
+	],
+	"translated_image_segments": [
+        {
+            "img_source": "https://uploads-ssl.webflow.com/649a9ab068278b47d14aeee8/64beb37ee141a0629a537adc_sustentabilidade-desktop-2.png",
+			"img_target_en": "https://uploads-ssl.webflow.com/649a9ab068278b47d14aeee8/64beb2145e5de271e330409e_sustentabilidade-desktop.png",
+            "img_target_es": "https://uploads-ssl.webflow.com/649a9ab068278b47d14aeee8/64beb2145e5de271e330409e_sustentabilidade-desktop.png",
+            "img_target_fr": "https://uploads-ssl.webflow.com/649a9ab068278b47d14aeee8/64beb2145e5de271e330409e_sustentabilidade-desktop.png"
+        }
+    ],
 };
