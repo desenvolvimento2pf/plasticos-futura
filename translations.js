@@ -191,6 +191,12 @@ var linguJSON = {
 			"target_en": "Analysis of your needs and ideas. Analysis of the economic feasibility with the requirements for industrial production.",
 			"target_es": "Análisis de sus necesidades e ideas. Análisis de la viabilidad económica con los requisitos para la producción industrial.",
 			"target_fr": "Analyse de vos besoins et idées. Analyse de la faisabilité économique avec les exigences de production industrielle."
+		},
+		{
+			"source": "Conheça a nossa gama de produtos",
+			"target_en": "Discover our range of products",
+			"target_es": "Descubra nuestra gama de productos",
+			"target_fr": "Découvrez notre gamme de produits"
 		}
 			  
 	],
