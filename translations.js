@@ -115,28 +115,34 @@ var linguJSON = {
   			"target_fr": "Nous sommes reconnus comme un fournisseur de solutions innovantes."
 		},
 		{
-  			"source": "A Plásticos Futura dedica-se à transformação de matéria plástica, pelo processo de Injecção, Sopro, Injecção-Sopro e Termoformagem. Produzindo assim embalagens, acessórios e componentes em plástico para as Industrias Alimentar, Catering, Médico-farmacêutica, Cosmética, Auto, entre outras.",
-  			"target_en": "Plásticos Futura is dedicated to the transformation of plastic material through Injection, Blow Molding, Injection-Blow Molding, and Thermoforming processes. Thus producing plastic packaging, accessories, and components for Food, Catering, Medical-Pharmaceutical, Cosmetic, Automotive industries, among others.",
-  			"target_es": "Plásticos Futura se dedica a la transformación de materia plástica mediante los procesos de Inyección, Soplado, Inyección-Soplado y Termoformado. Producendo así envases, accesorios y componentes de plástico para las industrias alimentarias, de catering, médico-farmacéuticas, cosméticas, automotrices, entre otras.",
-  			"target_fr": "Plásticos Futura est spécialisée dans la transformation de matériaux plastiques par les procédés d'injection, de soufflage, d'injection-soufflage et de thermoformage. Elle produit ainsi des emballages, des accessoires et des composants en plastique pour les industries alimentaires, de restauration, médico-pharmaceutiques, cosmétiques, automobiles, entre autres."
+  			"source": "Somos especializados na transformação de matéria plástica, utilizando no nosso processo de fabrico diferentes tecnologias tais como Injecção, Sopro, Injecção-Sopro e Termoformagem.",
+  			"target_en": "We are specialized in the transformation of plastic material, using in our manufacturing process different technologies such as Injection, Blow, Injection-Blow and Thermoforming.",
+  			"target_es": "Estamos especializados en la transformación de materiales plásticos, utilizando diferentes tecnologías en nuestro proceso de fabricación como Inyección, Soplado, Inyección-Soplado y Termoformado.",
+  			"target_fr": "Nous sommes spécialisés dans la transformation des matières plastiques, en utilisant différentes technologies dans notre processus de fabrication, telles que l'injection, le soufflage, l'injection-soufflage et le thermoformage."
 		},
 		{
-  			"source": "Contando já com mais de 4 décadas de actividade, a Plásticos Futura orgulha-se do seu constante crescimento sustentado, assente em inovação tecnológica e métodos diferenciadores, o que lhe permite a actual posição de destaque no sector e reconhecimento como PME líder.",
-  			"target_en": "With over 4 decades of activity, Plásticos Futura takes pride in its constant and sustained growth, based on technological innovation and distinctive methods, which have led it to its current prominent position in the sector and recognition as a leading SME.",
-  			"target_es": "Con más de 4 décadas de actividad, Plásticos Futura se enorgullece de su crecimiento constante y sostenido, basado en la innovación tecnológica y métodos distintivos, lo que le ha permitido alcanzar una posición destacada en el sector y ser reconocida como una PYME líder.",
-  			"target_fr": "Avec plus de 4 décennies d'activité, Plásticos Futura est fière de sa croissance constante et soutenue, basée sur l'innovation technologique et des méthodes distinctives, ce qui lui a permis d'occuper une position de premier plan dans le secteur et d'être reconnue comme une PME leader."
+  			"source": "Dedicamo-nos sobretudo à produção de embalagens, acessórios e componentes em plástico para satisfazer as necessidades das industrias Alimentar, Catering, Médico-farmacêutica, Cosmética, entre outras.",
+  			"target_en": "We are mainly dedicated to the production of packaging, accessories and plastic components to meet the needs of the Food, Catering, Medical-Pharmaceutical, Cosmetics, among others.",
+  			"target_es": "Nos dedicamos principalmente a la producción de envases plásticos, accesorios y componentes para satisfacer las necesidades de los sectores de Alimentación, Hostelería, Médico-Farmacéutico, Cosmético, entre otros.",
+  			"target_fr": "Nous nous consacrons principalement à la production d'emballages en plastique, d'accessoires et de composants pour répondre aux besoins des secteurs de l'alimentation, de la restauration, de la médecine-pharmacie et des cosmétiques, entre autres."
 		},
 		{
-  			"source": "O seu melhor parceiro na investigação e desenvolvimento de produtos em plástico.",
-  			"target_en": "Your best partner in plastic product research and development.",
-  			"target_es": "Su mejor socio en investigación y desarrollo de productos de plástico.",
-  			"target_fr": "Votre meilleur partenaire pour la recherche et le développement de produits en plastique."
+  			"source": "Contamos com mais de 4 décadas de atividade e orgulhamo-nos do nosso crescimento sustentado, assente em inovação tecnológica e métodos diferenciadores, o que nos permite a atual posição de destaque na indústria, e reconhecimento como PME líder.",
+  			"target_en": "We have more than 4 decades of activity and we are proud of our sustained growth, based on technological innovation and differentiating methods, which allows us the current prominent position in the industry, and recognition as a leading SME.",
+  			"target_es": "Llevamos más de 4 décadas en el sector y estamos orgullosos de nuestro crecimiento sostenido, basado en la innovación tecnológica y métodos diferenciadores, que nos permite la destacada posición actual en el sector, y el reconocimiento como PYME líder.",
+  			"target_fr": "Nous sommes en activité depuis plus de quarante ans et nous sommes fiers de notre croissance soutenue, fondée sur l'innovation technologique et des méthodes différenciées, qui nous permet d'occuper une position de premier plan dans l'industrie et d'être reconnus comme une PME de premier plan."
 		},
 		{
-			"source": "O seu melhor parceiro na <strong>investigação</strong> e <strong>desenvolvimento</strong> de <strong>soluções em plástico</strong>.",
-			"target_en": "Your best partner in <strong>research</strong> and <strong>development</strong> of <strong>plastic solutions</strong>.",
-  			"target_es": "Su mejor socio en <strong>investigación</strong> y <strong>desarrollo</strong> de <strong>soluciones en plástico</strong>.",
-  			"target_fr": "Votre meilleur partenaire pour la <strong>recherche</strong> et le <strong>développement</strong> de <strong>solutions en plastique</strong>."
+  			"source": "Somos o seu melhor parceiro no desenvolvimento e produção de soluções em plástico.",
+  			"target_en": "We are your best partner in the development and production of plastic solutions.",
+  			"target_es": "Somos su mejor socio en el desarrollo y la producción de soluciones de plástico.",
+  			"target_fr": "Nous sommes votre meilleur partenaire dans le développement et la production de solutions plastiques."
+		},
+		{
+			"source": "Somos o seu melhor parceiro no <strong>desenvolvimento</strong> e <strong>produção</strong> de <strong>soluções em plástico</strong>.",
+			"target_en": "We are your best partner in the <strong>development</strong> and <strong>production</strong> of <strong>plastic solutions</strong>.",
+  			"target_es": "Somos su mejor socio en el <strong>desarroll</strong> y la <strong>producción</strong> de <strong>soluciones en plástico</strong>.",
+  			"target_fr": "Nous sommes votre meilleur partenaire dans le <strong>développement</strong> et la <strong>production</strong> de <strong>solutions plastiques</strong>."
 		},
 		{
 			"source": "Nossa História",
